@@ -2,10 +2,40 @@ h1 {
     background-color: #990099;
     color: #ffffff;
     font-family: Verdana, sans-serif;
+    text-align:center;
+}
+
+.img {
+    height:100px;
+    width:600px;
+}
+
+.front {
+    background-color:lightpink;
+}
+
+#burg {
+    font-size:larger;
+}
+
+#rito {
+    font-size:small;
 }
 
 .ingreds,
 .descfont {
     color: blue;
     font-size: 18px;
+}
+
+.first {
+    font-weight:900;
+}
+
+.food .las {
+    color: #888888;
+}
+
+.food .ham {
+    color: cyan;
 }
